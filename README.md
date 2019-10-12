@@ -81,7 +81,6 @@ python mtcnn_demo.py
 
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-
 |<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_0.jpg">  |  <img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_3.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_6.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_9.jpg">|
 |<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_1.jpg">  |  <img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_4.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_7.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_10.jpg">|
 |<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_2.jpg">  |  <img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_5.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_8.jpg">||
