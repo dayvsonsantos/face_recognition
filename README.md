@@ -77,11 +77,10 @@ python mtcnn_demo.py
 (write_image) time: 0.00s
 ```
 ## Expected output images:
-![Demo](https://github.com/dayvsonsantos/face_recognition/blob/master/demo_faces.jpg)
+![Demo](https://github.com/dayvsonsantos/face_recognition/blob/master/img/demo_faces.jpg)
 
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_0.jpg
-|<img width="80" src="https://github.com/dayvsonsan/face_recognition/blob/master/img/face_0.jpg">  |  <img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_3.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_6.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_9.jpg">|
+|<img width="80"src="https://github.com/dayvsonsan/face_recognition/blob/master/img/face_0.jpg">  |  <img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_3.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_6.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_9.jpg">|
 |<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_1.jpg">  |  <img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_4.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_7.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_10.jpg">|
 |<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_2.jpg">  |  <img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_5.jpg">|<img width="80" src="https://github.com/dayvsonsantos/face_recognition/blob/master/img/face_8.jpg">||
